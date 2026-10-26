@@ -113,6 +113,7 @@ Ficha médica
     </div>
 
     <!-- Pie de página -->
+    
     <footer class="bg-slate-50 border-t border-slate-100 p-3 text-center">
       <p class="text-[11px] text-slate-400 font-medium">Ficha de soporte médico ICE para lectura rápida.</p>
     </footer>
